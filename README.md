@@ -1,5 +1,5 @@
 # osc-twins
-An audio-visual instrument for making Oscilloscope Visual.
+An audio-visual instrument for making vector live visual via oscilloscope.
 
 Sound Engine: Pure Data
 <br>Sound Card: Creative Sound Blaster S3
